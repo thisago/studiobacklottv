@@ -1,6 +1,6 @@
 # Studio Backlot TV
 
-Studio Backlot TV video extractor
+Studio Backlot TV video downloader
 
 # License
 
